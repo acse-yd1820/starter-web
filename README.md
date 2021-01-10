@@ -8,6 +8,10 @@ This is an example is to show different parts of the Git repository and various 
 
 ##Purpose
 
+As stated above
+
 ##Deplayment
+
+This is a simple web project.asda
 
 ##How To Contribute
